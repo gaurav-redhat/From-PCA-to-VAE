@@ -1,6 +1,6 @@
 # From PCA to VAE — Understanding Dimensionality Reduction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurav-redhat/Lora/blob/main/dimensionality_reduction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurav-redhat/Lora/blob/main/notebooks/dimensionality_reduction.ipynb)
 
 
 I built this notebook to understand how we go from a simple idea — "project data onto a few important directions" — all the way to generating brand-new images from noise.
