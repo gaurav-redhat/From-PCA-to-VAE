@@ -2,6 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurav-redhat/Lora/blob/main/dimensionality_reduction.ipynb)
 
+
 I built this notebook to understand how we go from a simple idea — "project data onto a few important directions" — all the way to generating brand-new images from noise.
 
 Everything is in one file, runs on MNIST, and uses a 2-D latent space so you can actually *see* what each method is doing.
